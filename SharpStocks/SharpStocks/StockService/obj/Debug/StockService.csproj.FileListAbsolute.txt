@@ -1,0 +1,7 @@
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\bin\Debug\StockService.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\bin\Debug\StockService.pdb
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\bin\Debug\YSQ.core.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\bin\Debug\YSQ.core.pdb
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\obj\Debug\StockService.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\obj\Debug\StockService.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\StockService\obj\Debug\StockService.pdb

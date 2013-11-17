@@ -1,0 +1,13 @@
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\SharpStocks.Data.dll.config
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\SharpStocks.Data.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\SharpStocks.Data.pdb
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\FluentMongo.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\MongoDB.Bson.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\MongoDB.Driver.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\MongoRepository.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\MongoDB.Bson.xml
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\MongoDB.Driver.xml
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\bin\Debug\MongoRepository.xml
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\obj\Debug\SharpStocks.Data.csprojResolveAssemblyReference.cache
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\obj\Debug\SharpStocks.Data.dll
+C:\Users\Colin\Source\Repos\SharpStocks\SharpStocks\SharpStocks.Data\obj\Debug\SharpStocks.Data.pdb

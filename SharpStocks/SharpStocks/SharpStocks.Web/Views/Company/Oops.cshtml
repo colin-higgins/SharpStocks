@@ -1,0 +1,28 @@
+﻿@model string
+
+@{
+    ViewBag.Title = "Oops!";
+
+    bool emptySymbol = String.IsNullOrEmpty(Model);
+}
+
+<h2>Oops!</h2>
+
+@{
+    if (emptySymbol)
+    {
+        <p>Please enter something for the company symbol next time around!</p>
+    }
+    else
+    {
+        <p>There is no company in our system with the symbol "@Model".</p>
+        <p>You can try creating one though! </p>
+
+        <div>
+            @Html.ActionLink("Create " + @Model, "Edit", new {id = Model})
+        </div>
+    }
+}
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
